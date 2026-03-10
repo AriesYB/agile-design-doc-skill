@@ -7,7 +7,7 @@
 ## 安装
 
 ```bash
-npm install -g @ariesyb/agile-design-doc-skill
+npx skills add https://github.com/aiskillstore/marketplace --skill agile-design-doc-skill
 ```
 
 ## 为什么选择这个工具？
