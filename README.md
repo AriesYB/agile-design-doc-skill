@@ -7,7 +7,7 @@
 ## 安装
 
 ```bash
-npx skills add https://github.com/aiskillstore/marketplace --skill agile-design-doc-skill
+npx skills add https://github.com/AriesYB/agile-design-doc-skill/blob/main/README.md --skill agile-design-doc
 ```
 
 ## 为什么选择这个工具？
