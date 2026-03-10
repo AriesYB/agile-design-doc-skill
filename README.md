@@ -7,7 +7,7 @@
 ## 安装
 
 ```bash
-npx skills add https://github.com/AriesYB/agile-design-doc-skill/blob/main/README.md --skill agile-design-doc
+npx skills add https://github.com/AriesYB/agile-design-doc-skill --skill agile-design-doc
 ```
 
 ## 为什么选择这个工具？
@@ -30,12 +30,12 @@ npx skills add https://github.com/AriesYB/agile-design-doc-skill/blob/main/READM
 
 ## 核心原则
 
-| 原则 | 说明 |
-|------|------|
-| **MVP 导向** | 专注于核心功能，次要功能可后续迭代 |
-| **基于现有技术栈** | 复用现有组件，避免重复造轮子 |
-| **清晰阐述** | 使用 Mermaid 图表展示交互流程 |
-| **精炼文档** | 面向技术人员，避免冗长背景介绍 |
+| 原则               | 说明                               |
+| ------------------ | ---------------------------------- |
+| **MVP 导向**       | 专注于核心功能，次要功能可后续迭代 |
+| **基于现有技术栈** | 复用现有组件，避免重复造轮子       |
+| **清晰阐述**       | 使用 Mermaid 图表展示交互流程      |
+| **精炼文档**       | 面向技术人员，避免冗长背景介绍     |
 
 ## 安装位置
 
