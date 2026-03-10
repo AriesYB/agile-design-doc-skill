@@ -1,0 +1,38 @@
+{
+  "name": "@ariesyb/agile-design-doc-skill",
+  "version": "1.0.0",
+  "description": "生成面向敏捷开发团队的精炼设计文档skill，MVP导向，避免过度设计",
+  "main": "install.js",
+  "bin": {
+    "agile-design-doc-skill": "install.js"
+  },
+  "scripts": {
+    "install": "node install.js",
+    "postinstall": "node postinstall.js"
+  },
+  "keywords": [
+    "skill",
+    "design-document",
+    "software-development",
+    "agile",
+    "mvp",
+    "lean",
+    "ai",
+    "codex"
+  ],
+  "author": "AriesYB <ariesyb@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AriesYB/agile-design-doc-skill.git"
+  },
+  "homepage": "https://github.com/AriesYB/agile-design-doc-skill#readme",
+  "files": [
+    "install.js",
+    "postinstall.js",
+    "skill/"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
